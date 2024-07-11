@@ -12,7 +12,6 @@ const payload = {
 const groupIds = [
 
 '1251918641969238066'
- ",
 
 ]; 
 
