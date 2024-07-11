@@ -2,7 +2,7 @@ const fs = require('fs');
 const request = require('request');
 
 const tokens = [
-  'NzkxMjY0OTkwMzM3NTY0Njcy.GTDPX-.fVTw-DlqK3deVJCPlc5N2BMTbAF-L1DgXD34QM'
+  'توكنك'
 ];
 
 const payload = {
